@@ -19,13 +19,6 @@ Current build status
 
 
 <table><tr>
-    <td>Travis</td>
-    <td>
-      <a href="https://app.travis-ci.com/conda-forge/pixman-feedstock">
-        <img alt="linux" src="https://img.shields.io/travis/com/conda-forge/pixman-feedstock/main.svg?label=Linux">
-      </a>
-    </td>
-  </tr><tr>
     <td>GitHub Actions</td>
     <td>
       <a href="https://github.com/conda-forge/pixman-feedstock/actions/workflows/conda-build.yml">
@@ -46,13 +39,6 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_aarch64</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=787&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pixman-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
               <td>osx_64</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=787&branchName=main">
